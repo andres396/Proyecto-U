@@ -1,0 +1,1295 @@
+C:\Users\dimendez\source\repos\ICT\obj\Debug\ICT.csprojAssemblyReference.cache
+C:\Users\dimendez\source\repos\ICT\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\dimendez\source\repos\ICT\bin\ICT.dll.config
+C:\Users\dimendez\source\repos\ICT\bin\ICT.dll
+C:\Users\dimendez\source\repos\ICT\bin\ICT.pdb
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\csc.exe
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\csc.exe.config
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\csc.rsp
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\csi.exe
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\csi.exe.config
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\csi.rsp
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.AppContext.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Console.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.IO.Compression.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Net.Http.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.ValueTuple.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\vbc.exe
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\vbc.exe.config
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\vbc.rsp
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\VBCSCompiler.exe
+C:\Users\dimendez\source\repos\ICT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dimendez\source\repos\ICT\bin\Antlr3.Runtime.dll
+C:\Users\dimendez\source\repos\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dimendez\source\repos\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\dimendez\source\repos\ICT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dimendez\source\repos\ICT\bin\Newtonsoft.Json.dll
+C:\Users\dimendez\source\repos\ICT\bin\System.Web.Helpers.dll
+C:\Users\dimendez\source\repos\ICT\bin\System.Web.Mvc.dll
+C:\Users\dimendez\source\repos\ICT\bin\System.Web.Optimization.dll
+C:\Users\dimendez\source\repos\ICT\bin\System.Web.Razor.dll
+C:\Users\dimendez\source\repos\ICT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dimendez\source\repos\ICT\bin\System.Web.WebPages.dll
+C:\Users\dimendez\source\repos\ICT\bin\System.Web.WebPages.Razor.dll
+C:\Users\dimendez\source\repos\ICT\bin\WebGrease.dll
+C:\Users\dimendez\source\repos\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\dimendez\source\repos\ICT\bin\System.Web.Helpers.xml
+C:\Users\dimendez\source\repos\ICT\bin\System.Web.Mvc.xml
+C:\Users\dimendez\source\repos\ICT\bin\System.Web.Optimization.xml
+C:\Users\dimendez\source\repos\ICT\bin\System.Web.Razor.xml
+C:\Users\dimendez\source\repos\ICT\bin\System.Web.WebPages.xml
+C:\Users\dimendez\source\repos\ICT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dimendez\source\repos\ICT\bin\System.Web.WebPages.Razor.xml
+C:\Users\dimendez\source\repos\ICT\bin\Newtonsoft.Json.xml
+C:\Users\dimendez\source\repos\ICT\bin\Antlr3.Runtime.pdb
+C:\Users\dimendez\source\repos\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dimendez\source\repos\ICT\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\dimendez\source\repos\ICT\obj\Debug\ICT.dll
+C:\Users\dimendez\source\repos\ICT\obj\Debug\ICT.pdb
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\ICT.dll.config
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\ICT.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\ICT.pdb
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\csc.exe
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\csc.exe.config
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\csc.rsp
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\csi.exe
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\csi.exe.config
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\csi.rsp
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.AppContext.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Console.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.IO.Compression.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Net.Http.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.ValueTuple.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\vbc.exe
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\vbc.exe.config
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\vbc.rsp
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\VBCSCompiler.exe
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\Antlr3.Runtime.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\Newtonsoft.Json.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\System.Web.Helpers.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\System.Web.Mvc.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\System.Web.Optimization.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\System.Web.Razor.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\System.Web.WebPages.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\System.Web.WebPages.Razor.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\WebGrease.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\System.Web.Helpers.xml
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\System.Web.Mvc.xml
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\System.Web.Optimization.xml
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\System.Web.Razor.xml
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\System.Web.WebPages.xml
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\System.Web.WebPages.Razor.xml
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\Newtonsoft.Json.xml
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\Antlr3.Runtime.pdb
+C:\Users\dimendez\source\repos\ICT 1.0.2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dimendez\source\repos\ICT 1.0.2\obj\Debug\ICT.csprojAssemblyReference.cache
+C:\Users\dimendez\source\repos\ICT 1.0.2\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\dimendez\source\repos\ICT 1.0.2\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\dimendez\source\repos\ICT 1.0.2\obj\Debug\ICT.dll
+C:\Users\dimendez\source\repos\ICT 1.0.2\obj\Debug\ICT.pdb
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\ICT.dll.config
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\ICT.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\ICT.pdb
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\csc.exe
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\csc.exe.config
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\csc.rsp
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\csi.exe
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\csi.exe.config
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\csi.rsp
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.AppContext.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Console.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.IO.Compression.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Net.Http.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.ValueTuple.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\vbc.exe
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\vbc.exe.config
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\vbc.rsp
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\VBCSCompiler.exe
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\Antlr3.Runtime.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\Newtonsoft.Json.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\System.Web.Helpers.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\System.Web.Mvc.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\System.Web.Optimization.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\System.Web.Razor.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\System.Web.WebPages.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\System.Web.WebPages.Razor.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\WebGrease.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\System.Web.Helpers.xml
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\System.Web.Mvc.xml
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\System.Web.Optimization.xml
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\System.Web.Razor.xml
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\System.Web.WebPages.xml
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\System.Web.WebPages.Razor.xml
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\Newtonsoft.Json.xml
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\Antlr3.Runtime.pdb
+C:\Users\dimendez\source\repos\ICT 1.0.3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dimendez\source\repos\ICT 1.0.3\obj\Debug\ICT.csprojAssemblyReference.cache
+C:\Users\dimendez\source\repos\ICT 1.0.3\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\dimendez\source\repos\ICT 1.0.3\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\dimendez\source\repos\ICT 1.0.3\obj\Debug\ICT.dll
+C:\Users\dimendez\source\repos\ICT 1.0.3\obj\Debug\ICT.pdb
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\ICT.dll.config
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\ICT.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\ICT.pdb
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\csc.exe
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\csc.exe.config
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\csc.rsp
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\csi.exe
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\csi.exe.config
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\csi.rsp
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.AppContext.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Console.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.IO.Compression.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Net.Http.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.ValueTuple.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\vbc.exe
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\vbc.exe.config
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\vbc.rsp
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\VBCSCompiler.exe
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\Antlr3.Runtime.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\Newtonsoft.Json.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\System.Web.Helpers.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\System.Web.Mvc.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\System.Web.Optimization.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\System.Web.Razor.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\System.Web.WebPages.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\System.Web.WebPages.Razor.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\WebGrease.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\System.Web.Helpers.xml
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\System.Web.Mvc.xml
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\System.Web.Optimization.xml
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\System.Web.Razor.xml
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\System.Web.WebPages.xml
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\System.Web.WebPages.Razor.xml
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\Newtonsoft.Json.xml
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\Antlr3.Runtime.pdb
+C:\Users\dimendez\Documents\ICT versions\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dimendez\Documents\ICT versions\ICT\obj\Debug\ICT.csproj.AssemblyReference.cache
+C:\Users\dimendez\Documents\ICT versions\ICT\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\dimendez\Documents\ICT versions\ICT\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\dimendez\Documents\ICT versions\ICT\obj\Debug\ICT.dll
+C:\Users\dimendez\Documents\ICT versions\ICT\obj\Debug\ICT.pdb
+C:\Users\ME_service_CR\Desktop\ICT\bin\ICT.dll.config
+C:\Users\ME_service_CR\Desktop\ICT\bin\ICT.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\ICT.pdb
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\csc.exe
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\csc.exe.config
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\csc.rsp
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\csi.exe
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\csi.exe.config
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\csi.rsp
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.AppContext.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Console.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.IO.Compression.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Net.Http.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.ValueTuple.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\vbc.exe
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\vbc.exe.config
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\vbc.rsp
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\VBCSCompiler.exe
+C:\Users\ME_service_CR\Desktop\ICT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ME_service_CR\Desktop\ICT\bin\Antlr3.Runtime.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\Newtonsoft.Json.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\System.Web.Helpers.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\System.Web.Mvc.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\System.Web.Optimization.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\System.Web.Razor.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\System.Web.WebPages.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\System.Web.WebPages.Razor.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\WebGrease.dll
+C:\Users\ME_service_CR\Desktop\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\ME_service_CR\Desktop\ICT\bin\System.Web.Helpers.xml
+C:\Users\ME_service_CR\Desktop\ICT\bin\System.Web.Mvc.xml
+C:\Users\ME_service_CR\Desktop\ICT\bin\System.Web.Optimization.xml
+C:\Users\ME_service_CR\Desktop\ICT\bin\System.Web.Razor.xml
+C:\Users\ME_service_CR\Desktop\ICT\bin\System.Web.WebPages.xml
+C:\Users\ME_service_CR\Desktop\ICT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ME_service_CR\Desktop\ICT\bin\System.Web.WebPages.Razor.xml
+C:\Users\ME_service_CR\Desktop\ICT\bin\Newtonsoft.Json.xml
+C:\Users\ME_service_CR\Desktop\ICT\bin\Antlr3.Runtime.pdb
+C:\Users\ME_service_CR\Desktop\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ME_service_CR\Desktop\ICT\obj\Debug\ICT.csproj.AssemblyReference.cache
+C:\Users\ME_service_CR\Desktop\ICT\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\ME_service_CR\Desktop\ICT\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\ME_service_CR\Desktop\ICT\obj\Debug\ICT.dll
+C:\Users\ME_service_CR\Desktop\ICT\obj\Debug\ICT.pdb
+C:\Users\dimendez\Documents\ICT\bin\ICT.dll.config
+C:\Users\dimendez\Documents\ICT\bin\ICT.dll
+C:\Users\dimendez\Documents\ICT\bin\ICT.pdb
+C:\Users\dimendez\Documents\ICT\bin\roslyn\csc.exe
+C:\Users\dimendez\Documents\ICT\bin\roslyn\csc.exe.config
+C:\Users\dimendez\Documents\ICT\bin\roslyn\csc.rsp
+C:\Users\dimendez\Documents\ICT\bin\roslyn\csi.exe
+C:\Users\dimendez\Documents\ICT\bin\roslyn\csi.exe.config
+C:\Users\dimendez\Documents\ICT\bin\roslyn\csi.rsp
+C:\Users\dimendez\Documents\ICT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dimendez\Documents\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dimendez\Documents\ICT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dimendez\Documents\ICT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.AppContext.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Console.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.IO.Compression.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Net.Http.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.ValueTuple.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dimendez\Documents\ICT\bin\roslyn\vbc.exe
+C:\Users\dimendez\Documents\ICT\bin\roslyn\vbc.exe.config
+C:\Users\dimendez\Documents\ICT\bin\roslyn\vbc.rsp
+C:\Users\dimendez\Documents\ICT\bin\roslyn\VBCSCompiler.exe
+C:\Users\dimendez\Documents\ICT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dimendez\Documents\ICT\bin\Antlr3.Runtime.dll
+C:\Users\dimendez\Documents\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dimendez\Documents\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\dimendez\Documents\ICT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dimendez\Documents\ICT\bin\Newtonsoft.Json.dll
+C:\Users\dimendez\Documents\ICT\bin\System.Web.Helpers.dll
+C:\Users\dimendez\Documents\ICT\bin\System.Web.Mvc.dll
+C:\Users\dimendez\Documents\ICT\bin\System.Web.Optimization.dll
+C:\Users\dimendez\Documents\ICT\bin\System.Web.Razor.dll
+C:\Users\dimendez\Documents\ICT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dimendez\Documents\ICT\bin\System.Web.WebPages.dll
+C:\Users\dimendez\Documents\ICT\bin\System.Web.WebPages.Razor.dll
+C:\Users\dimendez\Documents\ICT\bin\WebGrease.dll
+C:\Users\dimendez\Documents\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\dimendez\Documents\ICT\bin\System.Web.Helpers.xml
+C:\Users\dimendez\Documents\ICT\bin\System.Web.Mvc.xml
+C:\Users\dimendez\Documents\ICT\bin\System.Web.Optimization.xml
+C:\Users\dimendez\Documents\ICT\bin\System.Web.Razor.xml
+C:\Users\dimendez\Documents\ICT\bin\System.Web.WebPages.xml
+C:\Users\dimendez\Documents\ICT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dimendez\Documents\ICT\bin\System.Web.WebPages.Razor.xml
+C:\Users\dimendez\Documents\ICT\bin\Newtonsoft.Json.xml
+C:\Users\dimendez\Documents\ICT\bin\Antlr3.Runtime.pdb
+C:\Users\dimendez\Documents\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dimendez\Documents\ICT\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\dimendez\Documents\ICT\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\dimendez\Documents\ICT\obj\Debug\ICT.dll
+C:\Users\dimendez\Documents\ICT\obj\Debug\ICT.pdb
+C:\inetpub\ICT\bin\ICT.dll.config
+C:\inetpub\ICT\bin\ICT.dll
+C:\inetpub\ICT\bin\ICT.pdb
+C:\inetpub\ICT\bin\roslyn\csc.exe
+C:\inetpub\ICT\bin\roslyn\csc.exe.config
+C:\inetpub\ICT\bin\roslyn\csc.rsp
+C:\inetpub\ICT\bin\roslyn\csi.exe
+C:\inetpub\ICT\bin\roslyn\csi.exe.config
+C:\inetpub\ICT\bin\roslyn\csi.rsp
+C:\inetpub\ICT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\inetpub\ICT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\ICT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\inetpub\ICT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\ICT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\inetpub\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\inetpub\ICT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\inetpub\ICT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\ICT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\inetpub\ICT\bin\roslyn\System.AppContext.dll
+C:\inetpub\ICT\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\ICT\bin\roslyn\System.Console.dll
+C:\inetpub\ICT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\inetpub\ICT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\inetpub\ICT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\inetpub\ICT\bin\roslyn\System.Globalization.Calendars.dll
+C:\inetpub\ICT\bin\roslyn\System.IO.Compression.dll
+C:\inetpub\ICT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\inetpub\ICT\bin\roslyn\System.IO.FileSystem.dll
+C:\inetpub\ICT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\inetpub\ICT\bin\roslyn\System.Net.Http.dll
+C:\inetpub\ICT\bin\roslyn\System.Net.Sockets.dll
+C:\inetpub\ICT\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\ICT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\inetpub\ICT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\inetpub\ICT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\inetpub\ICT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\inetpub\ICT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\inetpub\ICT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\inetpub\ICT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\inetpub\ICT\bin\roslyn\System.ValueTuple.dll
+C:\inetpub\ICT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\inetpub\ICT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\inetpub\ICT\bin\roslyn\System.Xml.XPath.dll
+C:\inetpub\ICT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\inetpub\ICT\bin\roslyn\vbc.exe
+C:\inetpub\ICT\bin\roslyn\vbc.exe.config
+C:\inetpub\ICT\bin\roslyn\vbc.rsp
+C:\inetpub\ICT\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\ICT\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\ICT\bin\Antlr3.Runtime.dll
+C:\inetpub\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\inetpub\ICT\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\ICT\bin\Newtonsoft.Json.dll
+C:\inetpub\ICT\bin\System.Web.Helpers.dll
+C:\inetpub\ICT\bin\System.Web.Mvc.dll
+C:\inetpub\ICT\bin\System.Web.Optimization.dll
+C:\inetpub\ICT\bin\System.Web.Razor.dll
+C:\inetpub\ICT\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\ICT\bin\System.Web.WebPages.dll
+C:\inetpub\ICT\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\ICT\bin\WebGrease.dll
+C:\inetpub\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\inetpub\ICT\bin\System.Web.Helpers.xml
+C:\inetpub\ICT\bin\System.Web.Mvc.xml
+C:\inetpub\ICT\bin\System.Web.Optimization.xml
+C:\inetpub\ICT\bin\System.Web.Razor.xml
+C:\inetpub\ICT\bin\System.Web.WebPages.xml
+C:\inetpub\ICT\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\ICT\bin\System.Web.WebPages.Razor.xml
+C:\inetpub\ICT\bin\Newtonsoft.Json.xml
+C:\inetpub\ICT\bin\Antlr3.Runtime.pdb
+C:\inetpub\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\ICT\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\inetpub\ICT\obj\Debug\ICT.csproj.CopyComplete
+C:\inetpub\ICT\obj\Debug\ICT.dll
+C:\inetpub\ICT\obj\Debug\ICT.pdb
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\ICT.dll.config
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\ICT.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\ICT.pdb
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\csc.exe
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\csc.exe.config
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\csc.rsp
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\csi.exe
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\csi.exe.config
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\csi.rsp
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.AppContext.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Console.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.IO.Compression.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Net.Http.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.ValueTuple.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\vbc.exe
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\vbc.exe.config
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\vbc.rsp
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\VBCSCompiler.exe
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\Antlr3.Runtime.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\Newtonsoft.Json.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\System.Web.Helpers.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\System.Web.Mvc.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\System.Web.Optimization.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\System.Web.Razor.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\System.Web.WebPages.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\System.Web.WebPages.Razor.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\WebGrease.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\System.Web.Helpers.xml
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\System.Web.Mvc.xml
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\System.Web.Optimization.xml
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\System.Web.Razor.xml
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\System.Web.WebPages.xml
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\System.Web.WebPages.Razor.xml
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\Newtonsoft.Json.xml
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\Antlr3.Runtime.pdb
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\obj\Debug\ICT.csproj.AssemblyReference.cache
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\obj\Debug\ICT.dll
+C:\Users\ME_service_CR\Desktop\ICT Versiones Wilson\ICT\obj\Debug\ICT.pdb
+C:\inetpub\ICT\obj\Debug\ICT.csproj.AssemblyReference.cache
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\ICT.dll.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\ICT.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\ICT.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\csc.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\csc.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\csc.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\csi.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\csi.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\csi.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.AppContext.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Console.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.IO.Compression.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Net.Http.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.ValueTuple.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\vbc.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\vbc.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\vbc.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\VBCSCompiler.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\Antlr3.Runtime.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\Newtonsoft.Json.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\System.Web.Helpers.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\System.Web.Mvc.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\System.Web.Optimization.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\System.Web.Razor.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\System.Web.WebPages.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\System.Web.WebPages.Razor.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\WebGrease.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\System.Web.Helpers.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\System.Web.Mvc.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\System.Web.Optimization.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\System.Web.Razor.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\System.Web.WebPages.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\System.Web.WebPages.Razor.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\Newtonsoft.Json.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\Antlr3.Runtime.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\obj\Debug\ICT.csproj.AssemblyReference.cache
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\obj\Debug\ICT.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT en produccion NO MODIFICAR\ICT\obj\Debug\ICT.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\ICT.dll.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\ICT.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\ICT.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\csc.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\csc.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\csc.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\csi.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\csi.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\csi.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.AppContext.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Console.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.IO.Compression.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Net.Http.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.ValueTuple.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\vbc.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\vbc.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\vbc.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\VBCSCompiler.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\Antlr3.Runtime.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\Newtonsoft.Json.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\System.Web.Helpers.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\System.Web.Mvc.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\System.Web.Optimization.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\System.Web.Razor.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\System.Web.WebPages.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\System.Web.WebPages.Razor.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\WebGrease.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\System.Web.Helpers.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\System.Web.Mvc.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\System.Web.Optimization.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\System.Web.Razor.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\System.Web.WebPages.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\System.Web.WebPages.Razor.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\Newtonsoft.Json.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\Antlr3.Runtime.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\obj\Debug\ICT.csproj.AssemblyReference.cache
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\obj\Debug\ICT.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT Testing\ICT\obj\Debug\ICT.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\ICT.dll.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\ICT.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\ICT.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\csc.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\csc.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\csc.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\csi.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\csi.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\csi.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.AppContext.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Console.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.IO.Compression.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Net.Http.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.ValueTuple.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\vbc.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\vbc.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\vbc.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\VBCSCompiler.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\Antlr3.Runtime.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\Newtonsoft.Json.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\System.Web.Helpers.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\System.Web.Mvc.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\System.Web.Optimization.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\System.Web.Razor.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\System.Web.WebPages.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\System.Web.WebPages.Razor.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\WebGrease.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\System.Web.Helpers.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\System.Web.Mvc.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\System.Web.Optimization.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\System.Web.Razor.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\System.Web.WebPages.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\System.Web.WebPages.Razor.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\Newtonsoft.Json.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\Antlr3.Runtime.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\obj\Debug\ICT.csproj.AssemblyReference.cache
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\obj\Debug\ICT.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Folder\ICT\obj\Debug\ICT.pdb
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\ICT.dll.config
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\ICT.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\ICT.pdb
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\csc.exe
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\csc.exe.config
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\csc.rsp
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\csi.exe
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\csi.exe.config
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\csi.rsp
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.AppContext.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Console.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.IO.Compression.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Net.Http.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.ValueTuple.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\vbc.exe
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\vbc.exe.config
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\vbc.rsp
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\VBCSCompiler.exe
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\Antlr3.Runtime.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\Newtonsoft.Json.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\System.Web.Helpers.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\System.Web.Mvc.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\System.Web.Optimization.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\System.Web.Razor.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\System.Web.WebPages.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\System.Web.WebPages.Razor.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\WebGrease.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\System.Web.Helpers.xml
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\System.Web.Mvc.xml
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\System.Web.Optimization.xml
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\System.Web.Razor.xml
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\System.Web.WebPages.xml
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\System.Web.WebPages.Razor.xml
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\Newtonsoft.Json.xml
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\Antlr3.Runtime.pdb
+C:\Users\wmurillo\Desktop\New folder\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wmurillo\Desktop\New folder\ICT\obj\Debug\ICT.csproj.AssemblyReference.cache
+C:\Users\wmurillo\Desktop\New folder\ICT\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\wmurillo\Desktop\New folder\ICT\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\wmurillo\Desktop\New folder\ICT\obj\Debug\ICT.dll
+C:\Users\wmurillo\Desktop\New folder\ICT\obj\Debug\ICT.pdb
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\ICT.dll.config
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\ICT.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\ICT.pdb
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\csc.exe
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\csc.exe.config
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\csc.rsp
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\csi.exe
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\csi.exe.config
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\csi.rsp
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.AppContext.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Console.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.IO.Compression.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Net.Http.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.ValueTuple.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\vbc.exe
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\vbc.exe.config
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\vbc.rsp
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\VBCSCompiler.exe
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\Antlr3.Runtime.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\Newtonsoft.Json.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\System.Web.Helpers.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\System.Web.Mvc.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\System.Web.Optimization.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\System.Web.Razor.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\System.Web.WebPages.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\System.Web.WebPages.Razor.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\WebGrease.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\System.Web.Helpers.xml
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\System.Web.Mvc.xml
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\System.Web.Optimization.xml
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\System.Web.Razor.xml
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\System.Web.WebPages.xml
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\System.Web.WebPages.Razor.xml
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\Newtonsoft.Json.xml
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\Antlr3.Runtime.pdb
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\obj\Debug\ICT.csproj.AssemblyReference.cache
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\obj\Debug\ICT.dll
+C:\Users\wmurillo\Desktop\Varios\New folder\ICT\obj\Debug\ICT.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\ICT.dll.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\ICT.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\ICT.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\csc.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\csc.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\csc.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\csi.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\csi.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\csi.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.AppContext.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Console.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.IO.Compression.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Net.Http.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.ValueTuple.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\vbc.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\vbc.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\vbc.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\VBCSCompiler.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\Antlr3.Runtime.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\Newtonsoft.Json.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\System.Web.Helpers.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\System.Web.Mvc.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\System.Web.Optimization.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\System.Web.Razor.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\System.Web.WebPages.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\System.Web.WebPages.Razor.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\WebGrease.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\System.Web.Helpers.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\System.Web.Mvc.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\System.Web.Optimization.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\System.Web.Razor.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\System.Web.WebPages.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\System.Web.WebPages.Razor.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\Newtonsoft.Json.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\Antlr3.Runtime.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\obj\Debug\ICT.csproj.AssemblyReference.cache
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\obj\Debug\ICT.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT Produccion\ICT\obj\Debug\ICT.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\ICT.dll.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\ICT.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\ICT.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\csc.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\csc.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\csc.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\csi.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\csi.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\csi.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.AppContext.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Console.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.IO.Compression.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Net.Http.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.ValueTuple.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\vbc.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\vbc.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\vbc.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\VBCSCompiler.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\Antlr3.Runtime.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\Newtonsoft.Json.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\System.Web.Helpers.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\System.Web.Mvc.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\System.Web.Optimization.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\System.Web.Razor.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\System.Web.WebPages.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\System.Web.WebPages.Razor.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\WebGrease.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\System.Web.Helpers.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\System.Web.Mvc.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\System.Web.Optimization.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\System.Web.Razor.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\System.Web.WebPages.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\System.Web.WebPages.Razor.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\Newtonsoft.Json.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\Antlr3.Runtime.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\obj\Debug\ICT.csproj.AssemblyReference.cache
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\obj\Debug\ICT.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\Revisar\ICT\obj\Debug\ICT.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\ICT.dll.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\ICT.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\ICT.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\csc.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\csc.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\csc.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\csi.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\csi.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\csi.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.AppContext.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Console.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.IO.Compression.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Net.Http.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.ValueTuple.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\vbc.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\vbc.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\vbc.rsp
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\VBCSCompiler.exe
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\Antlr3.Runtime.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\Newtonsoft.Json.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\System.Web.Helpers.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\System.Web.Mvc.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\System.Web.Optimization.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\System.Web.Razor.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\System.Web.WebPages.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\System.Web.WebPages.Razor.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\WebGrease.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\System.Web.Helpers.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\System.Web.Mvc.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\System.Web.Optimization.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\System.Web.Razor.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\System.Web.WebPages.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\System.Web.WebPages.Razor.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\Newtonsoft.Json.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\Antlr3.Runtime.pdb
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\obj\Debug\ICT.csproj.AssemblyReference.cache
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\obj\Debug\ICT.dll
+C:\Users\wmurillo\OneDrive - Align Technology, Inc\Desktop\ICT\obj\Debug\ICT.pdb

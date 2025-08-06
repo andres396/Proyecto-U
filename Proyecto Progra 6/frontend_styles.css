@@ -1,0 +1,828 @@
+/* src/styles.css - Estilos Globales */
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  font-family: 'Roboto', 'Helvetica Neue', sans-serif;
+  background-color: #f5f5f5;
+}
+
+/* Custom Material Theme Colors */
+.mat-primary {
+  background-color: #667eea !important;
+}
+
+.mat-accent {
+  background-color: #764ba2 !important;
+}
+
+/* Custom Button Styles */
+.mat-raised-button.mat-primary {
+  background-color: #667eea;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.mat-raised-button.mat-primary:hover {
+  background: linear-gradient(135deg, #5a6fd8 0%, #6b4190 100%);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* Card Styles */
+.mat-card {
+  border-radius: 12px;
+  box-shadow: 0 2px 20px rgba(0,0,0,0.08);
+  border: 1px solid #e0e0e0;
+}
+
+.mat-card:hover {
+  box-shadow: 0 4px 25px rgba(0,0,0,0.12);
+}
+
+/* Table Styles */
+.mat-table {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.mat-header-cell {
+  background-color: #f8f9fa;
+  color: #495057;
+  font-weight: 600;
+  border-bottom: 2px solid #e9ecef;
+}
+
+.mat-row:hover {
+  background-color: #f8f9fa;
+}
+
+/* Form Field Styles */
+.mat-form-field-appearance-outline .mat-form-field-outline {
+  border-radius: 8px;
+}
+
+.mat-form-field-appearance-outline.mat-focused .mat-form-field-outline-thick {
+  color: #667eea;
+}
+
+/* Chip Styles */
+.mat-chip.mat-standard-chip {
+  border-radius: 16px;
+  font-size: 12px;
+  min-height: 28px;
+}
+
+.status-success {
+  background-color: #d4edda !important;
+  color: #155724 !important;
+}
+
+.status-warning {
+  background-color: #fff3cd !important;
+  color: #856404 !important;
+}
+
+.status-danger {
+  background-color: #f8d7da !important;
+  color: #721c24 !important;
+}
+
+/* Stock Badge Styles */
+.stock-badge {
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 40px;
+  text-align: center;
+}
+
+.stock-high {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.stock-medium {
+  background-color: #fff3cd;
+  color: #856404;
+}
+
+.stock-low {
+  background-color: #f8d7da;
+  color: #721c24;
+}
+
+/* Loading Overlay */
+.loading-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.8);
+  z-index: 1000;
+}
+
+/* Utility Classes */
+.full-width {
+  width: 100% !important;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.margin-top {
+  margin-top: 20px;
+}
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
+
+.padding-20 {
+  padding: 20px;
+}
+
+/* Scrollbar Styles */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+
+/* Responsive Utilities */
+@media (max-width: 768px) {
+  .hide-mobile {
+    display: none !important;
+  }
+  
+  .mat-card {
+    margin: 8px;
+  }
+  
+  .mat-dialog-container {
+    margin: 8px !important;
+    max-height: calc(100vh - 16px) !important;
+  }
+}
+
+/* src/app/components/products/products.component.css */
+.products-container {
+  padding: 20px;
+}
+
+.header-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.header-section h1 {
+  margin: 0;
+  color: #333;
+}
+
+.table-card {
+  margin-top: 20px;
+}
+
+.filter-section {
+  margin-bottom: 20px;
+}
+
+.filter-field {
+  width: 400px;
+  max-width: 100%;
+}
+
+.table-container {
+  position: relative;
+  max-height: 70vh;
+  overflow: auto;
+}
+
+.categories-table {
+  width: 100%;
+}
+
+.category-icon {
+  font-size: 24px;
+  text-align: center;
+}
+
+/* src/app/components/categories/categories.component.html */
+<div class="categories-container">
+  <div class="header-section">
+    <h1>Gestión de Categorías</h1>
+    <button mat-raised-button color="primary">
+      <mat-icon>add</mat-icon>
+      Nueva Categoría
+    </button>
+  </div>
+
+  <mat-card class="table-card">
+    <mat-card-header>
+      <mat-card-title>Lista de Categorías</mat-card-title>
+    </mat-card-header>
+    
+    <mat-card-content>
+      <div class="filter-section">
+        <mat-form-field appearance="outline" class="filter-field">
+          <mat-label>Buscar categorías</mat-label>
+          <input matInput placeholder="Nombre, descripción...">
+          <mat-icon matSuffix>search</mat-icon>
+        </mat-form-field>
+      </div>
+
+      <div class="table-container">
+        <table mat-table [dataSource]="dataSource" class="categories-table">
+          <!-- Icono Column -->
+          <ng-container matColumnDef="icono">
+            <th mat-header-cell *matHeaderCellDef>Icono</th>
+            <td mat-cell *matCellDef="let category">
+              <div class="category-icon">{{category.icono}}</div>
+            </td>
+          </ng-container>
+
+          <!-- Nombre Column -->
+          <ng-container matColumnDef="nombre">
+            <th mat-header-cell *matHeaderCellDef>Nombre</th>
+            <td mat-cell *matCellDef="let category">
+              <strong>{{category.nombre}}</strong>
+            </td>
+          </ng-container>
+
+          <!-- Descripción Column -->
+          <ng-container matColumnDef="descripcion">
+            <th mat-header-cell *matHeaderCellDef>Descripción</th>
+            <td mat-cell *matCellDef="let category">{{category.descripcion}}</td>
+          </ng-container>
+
+          <!-- Fecha Column -->
+          <ng-container matColumnDef="fechaCreacion">
+            <th mat-header-cell *matHeaderCellDef>Fecha Creación</th>
+            <td mat-cell *matCellDef="let category">
+              {{category.fechaCreacion | date:'dd/MM/yyyy'}}
+            </td>
+          </ng-container>
+
+          <!-- Actions Column -->
+          <ng-container matColumnDef="actions">
+            <th mat-header-cell *matHeaderCellDef>Acciones</th>
+            <td mat-cell *matCellDef="let category">
+              <button mat-icon-button color="primary" matTooltip="Editar">
+                <mat-icon>edit</mat-icon>
+              </button>
+              <button mat-icon-button color="warn" 
+                      (click)="deleteCategory(category.id)" 
+                      matTooltip="Eliminar">
+                <mat-icon>delete</mat-icon>
+              </button>
+            </td>
+          </ng-container>
+
+          <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+          <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+        </table>
+      </div>
+
+      <div *ngIf="loading" class="loading-overlay">
+        <mat-progress-spinner mode="indeterminate"></mat-progress-spinner>
+      </div>
+    </mat-card-content>
+  </mat-card>
+</div>
+
+/* src/app/components/suppliers/suppliers.component.ts */
+import { Component, OnInit } from '@angular/core';
+import { MatTableDataSource } from '@angular/material/table';
+import { MatSnackBar } from '@angular/material/snack-bar';
+import { SupplierService } from '../../services/supplier.service';
+import { Supplier } from '../../models/supplier.model';
+
+@Component({
+  selector: 'app-suppliers',
+  templateUrl: './suppliers.component.html',
+  styleUrls: ['./suppliers.component.css']
+})
+export class SuppliersComponent implements OnInit {
+  displayedColumns: string[] = ['nombre', 'contacto', 'telefono', 'email', 'direccion', 'actions'];
+  dataSource = new MatTableDataSource<Supplier>();
+  loading = false;
+
+  constructor(
+    private supplierService: SupplierService,
+    private snackBar: MatSnackBar
+  ) { }
+
+  ngOnInit(): void {
+    this.loadSuppliers();
+  }
+
+  loadSuppliers(): void {
+    this.loading = true;
+    this.supplierService.getSuppliers().subscribe({
+      next: (suppliers) => {
+        this.dataSource.data = suppliers;
+        this.loading = false;
+      },
+      error: (error) => {
+        this.snackBar.open('Error al cargar proveedores', 'Cerrar', { duration: 3000 });
+        this.loading = false;
+      }
+    });
+  }
+
+  deleteSupplier(id: number): void {
+    if (confirm('¿Está seguro de eliminar este proveedor?')) {
+      this.supplierService.deleteSupplier(id).subscribe({
+        next: () => {
+          this.snackBar.open('Proveedor eliminado exitosamente', 'Cerrar', { duration: 3000 });
+          this.loadSuppliers();
+        },
+        error: (error) => {
+          this.snackBar.open('Error al eliminar proveedor', 'Cerrar', { duration: 3000 });
+        }
+      });
+    }
+  }
+}
+
+/* src/app/components/suppliers/suppliers.component.html */
+<div class="suppliers-container">
+  <div class="header-section">
+    <h1>Gestión de Proveedores</h1>
+    <button mat-raised-button color="primary">
+      <mat-icon>add</mat-icon>
+      Nuevo Proveedor
+    </button>
+  </div>
+
+  <mat-card class="table-card">
+    <mat-card-header>
+      <mat-card-title>Lista de Proveedores</mat-card-title>
+    </mat-card-header>
+    
+    <mat-card-content>
+      <div class="filter-section">
+        <mat-form-field appearance="outline" class="filter-field">
+          <mat-label>Buscar proveedores</mat-label>
+          <input matInput placeholder="Nombre, contacto, email...">
+          <mat-icon matSuffix>search</mat-icon>
+        </mat-form-field>
+      </div>
+
+      <div class="table-container">
+        <table mat-table [dataSource]="dataSource" class="suppliers-table">
+          <!-- Nombre Column -->
+          <ng-container matColumnDef="nombre">
+            <th mat-header-cell *matHeaderCellDef>Nombre</th>
+            <td mat-cell *matCellDef="let supplier">
+              <strong>{{supplier.nombre}}</strong>
+            </td>
+          </ng-container>
+
+          <!-- Contacto Column -->
+          <ng-container matColumnDef="contacto">
+            <th mat-header-cell *matHeaderCellDef>Contacto</th>
+            <td mat-cell *matCellDef="let supplier">{{supplier.contacto}}</td>
+          </ng-container>
+
+          <!-- Teléfono Column -->
+          <ng-container matColumnDef="telefono">
+            <th mat-header-cell *matHeaderCellDef>Teléfono</th>
+            <td mat-cell *matCellDef="let supplier">{{supplier.telefono}}</td>
+          </ng-container>
+
+          <!-- Email Column -->
+          <ng-container matColumnDef="email">
+            <th mat-header-cell *matHeaderCellDef>Email</th>
+            <td mat-cell *matCellDef="let supplier">
+              <a *ngIf="supplier.email" [href]="'mailto:' + supplier.email">
+                {{supplier.email}}
+              </a>
+            </td>
+          </ng-container>
+
+          <!-- Dirección Column -->
+          <ng-container matColumnDef="direccion">
+            <th mat-header-cell *matHeaderCellDef>Dirección</th>
+            <td mat-cell *matCellDef="let supplier">{{supplier.direccion}}</td>
+          </ng-container>
+
+          <!-- Actions Column -->
+          <ng-container matColumnDef="actions">
+            <th mat-header-cell *matHeaderCellDef>Acciones</th>
+            <td mat-cell *matCellDef="let supplier">
+              <button mat-icon-button color="primary" matTooltip="Editar">
+                <mat-icon>edit</mat-icon>
+              </button>
+              <button mat-icon-button color="warn" 
+                      (click)="deleteSupplier(supplier.id)" 
+                      matTooltip="Eliminar">
+                <mat-icon>delete</mat-icon>
+              </button>
+            </td>
+          </ng-container>
+
+          <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+          <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+        </table>
+      </div>
+
+      <div *ngIf="loading" class="loading-overlay">
+        <mat-progress-spinner mode="indeterminate"></mat-progress-spinner>
+      </div>
+    </mat-card-content>
+  </mat-card>
+</div>
+
+/* src/app/components/suppliers/suppliers.component.css */
+.suppliers-container {
+  padding: 20px;
+}
+
+.header-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.header-section h1 {
+  margin: 0;
+  color: #333;
+}
+
+.table-card {
+  margin-top: 20px;
+}
+
+.filter-section {
+  margin-bottom: 20px;
+}
+
+.filter-field {
+  width: 400px;
+  max-width: 100%;
+}
+
+.table-container {
+  position: relative;
+  max-height: 70vh;
+  overflow: auto;
+}
+
+.suppliers-table {
+  width: 100%;
+}
+
+/* angular.json - Configuración importante */
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "version": 1,
+  "newProjectRoot": "projects",
+  "projects": {
+    "ferreteria-frontend": {
+      "projectType": "application",
+      "schematics": {
+        "@schematics/angular:component": {
+          "style": "css"
+        }
+      },
+      "root": "",
+      "sourceRoot": "src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/ferreteria-frontend",
+            "index": "src/index.html",
+            "main": "src/main.ts",
+            "polyfills": "src/polyfills.ts",
+            "tsConfig": "tsconfig.app.json",
+            "assets": [
+              "src/favicon.ico",
+              "src/assets"
+            ],
+            "styles": [
+              "@angular/material/prebuilt-themes/indigo-pink.css",
+              "src/styles.css"
+            ],
+            "scripts": []
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "configurations": {
+            "production": {
+              "browserTarget": "ferreteria-frontend:build:production"
+            },
+            "development": {
+              "browserTarget": "ferreteria-frontend:build:development"
+            }
+          },
+          "defaultConfiguration": "development"
+        }
+      }
+    }
+  }
+}
+
+/* Manual de Instalación y Ejecución */
+
+# 📋 MANUAL DE INSTALACIÓN Y EJECUCIÓN
+
+## 1. REQUISITOS PREVIOS
+
+### Software Necesario:
+- **Node.js 16+** (https://nodejs.org/)
+- **.NET 6 SDK** (https://dotnet.microsoft.com/download)
+- **SQL Server Express** (https://www.microsoft.com/sql-server/sql-server-downloads)
+- **Visual Studio Code** (recomendado)
+- **Git** (https://git-scm.com/)
+
+### Verificar Instalaciones:
+```bash
+node --version
+npm --version
+dotnet --version
+```
+
+## 2. CONFIGURACIÓN DEL BACKEND
+
+### Paso 1: Navegar al directorio del backend
+```bash
+cd backend
+```
+
+### Paso 2: Restaurar paquetes NuGet
+```bash
+dotnet restore
+```
+
+### Paso 3: Configurar cadena de conexión
+Editar `appsettings.json`:
+```json
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost\\SQLEXPRESS;Database=FerreriaDB;Trusted_Connection=true;TrustServerCertificate=true;"
+  }
+}
+```
+
+### Paso 4: Crear y ejecutar migraciones
+```bash
+dotnet ef migrations add InitialCreate
+dotnet ef database update
+```
+
+### Paso 5: Ejecutar la API
+```bash
+dotnet run
+```
+**API disponible en:** https://localhost:5001
+
+## 3. CONFIGURACIÓN DEL FRONTEND
+
+### Paso 1: Navegar al directorio del frontend
+```bash
+cd frontend
+```
+
+### Paso 2: Instalar dependencias
+```bash
+npm install
+```
+
+### Paso 3: Instalar Angular CLI (si no está instalado)
+```bash
+npm install -g @angular/cli@15
+```
+
+### Paso 4: Verificar configuración de ambiente
+Verificar `src/environments/environment.ts`:
+```typescript
+export const environment = {
+  production: false,
+  apiUrl: 'https://localhost:5001/api'
+};
+```
+
+### Paso 5: Ejecutar la aplicación
+```bash
+ng serve
+```
+**Frontend disponible en:** http://localhost:4200
+
+## 4. VERIFICACIÓN DE LA INSTALACIÓN
+
+1. **Backend funcionando**: Visitar https://localhost:5001/swagger
+2. **Frontend funcionando**: Visitar http://localhost:4200
+3. **Login exitoso**: Usar credenciales demo:
+   - Admin: admin@ferreteria.com / admin123
+   - Vendedor: vendedor@ferreteria.com / vendedor123
+
+## 5. SOLUCIÓN DE PROBLEMAS COMUNES
+
+### Error de CORS:
+- Verificar configuración CORS en `Program.cs`
+- URL del frontend debe coincidir en la política
+
+### Error de Base de Datos:
+- Verificar que SQL Server esté ejecutándose
+- Comprobar cadena de conexión
+- Ejecutar `dotnet ef database update` nuevamente
+
+### Error de Certificado SSL:
+- Ejecutar: `dotnet dev-certs https --trust`
+
+### Problemas con Angular Material:
+- Ejecutar: `ng add @angular/material`
+
+## 6. COMANDOS ÚTILES
+
+### Backend:
+```bash
+dotnet watch run          # Ejecutar con hot reload
+dotnet ef migrations add  # Crear migración
+dotnet build             # Compilar proyecto
+```
+
+### Frontend:
+```bash
+ng serve --open         # Abrir automáticamente el navegador
+ng build --prod        # Compilar para producción
+ng test               # Ejecutar pruebas unitarias
+```
+
+## 7. ESTRUCTURA DEL PROYECTO
+
+```
+ferreteria-system/
+├── backend/
+│   ├── Controllers/
+│   ├── Models/
+│   ├── Data/
+│   ├── Services/
+│   └── Program.cs
+└── frontend/
+    ├── src/
+    │   ├── app/
+    │   │   ├── components/
+    │   │   ├── services/
+    │   │   ├── models/
+    │   │   └── guards/
+    │   └── environments/
+    └── angular.json
+```: #333;
+}
+
+.table-card {
+  margin-top: 20px;
+}
+
+.filter-section {
+  margin-bottom: 20px;
+}
+
+.filter-field {
+  width: 400px;
+  max-width: 100%;
+}
+
+.table-container {
+  position: relative;
+  max-height: 70vh;
+  overflow: auto;
+}
+
+.products-table {
+  width: 100%;
+}
+
+.product-name strong {
+  display: block;
+  color: #333;
+}
+
+.product-name small {
+  color: #666;
+  font-size: 12px;
+}
+
+.stock-info {
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .header-section {
+    flex-direction: column;
+    gap: 16px;
+    align-items: stretch;
+  }
+  
+  .filter-field {
+    width: 100%;
+  }
+  
+  .table-container {
+    max-height: 60vh;
+  }
+}
+
+/* src/app/components/sales/sales.component.css */
+.sales-container {
+  padding: 20px;
+}
+
+.header-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.header-section h1 {
+  margin: 0;
+  color: #333;
+}
+
+.table-card {
+  margin-top: 20px;
+}
+
+.filter-section {
+  margin-bottom: 20px;
+}
+
+.filter-field {
+  width: 400px;
+  max-width: 100%;
+}
+
+.table-container {
+  position: relative;
+  max-height: 70vh;
+  overflow: auto;
+}
+
+.sales-table {
+  width: 100%;
+}
+
+.client-info strong {
+  display: block;
+  color: #333;
+}
+
+.client-info small {
+  color: #666;
+  font-size: 12px;
+}
+
+/* src/app/components/categories/categories.component.css */
+.categories-container {
+  padding: 20px;
+}
+
+.header-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.header-section h1 {
+  margin: 0;
+  color

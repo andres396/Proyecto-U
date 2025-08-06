@@ -1,0 +1,607 @@
+<!-- src/app/components/dashboard/dashboard.component.html -->
+<div class="dashboard-container">
+  <h1>Dashboard</h1>
+  
+  <!-- KPIs Section -->
+  <div class="kpis-section">
+    <mat-card class="kpi-card sales">
+      <mat-card-content>
+        <div class="kpi-content">
+          <div class="kpi-icon">
+            <mat-icon>monetization_on</mat-icon>
+          </div>
+          <div class="kpi-info">
+            <h3>{{kpis.ventasDelMes | currency:'USD':'symbol':'1.0-0'}}</h3>
+            <p>Ventas del Mes</p>
+          </div>
+        </div>
+      </mat-card-content>
+    </mat-card>
+
+    <mat-card class="kpi-card products">
+      <mat-card-content>
+        <div class="kpi-content">
+          <div class="kpi-icon">
+            <mat-icon>inventory</mat-icon>
+          </div>
+          <div class="kpi-info">
+            <h3>{{kpis.productosEnStock}}</h3>
+            <p>Productos en Stock</p>
+          </div>
+        </div>
+      </mat-card-content>
+    </mat-card>
+
+    <mat-card class="kpi-card sales-today">
+      <mat-card-content>
+        <div class="kpi-content">
+          <div class="kpi-icon">
+            <mat-icon>today</mat-icon>
+          </div>
+          <div class="kpi-info">
+            <h3>{{kpis.ventasHoy}}</h3>
+            <p>Ventas Hoy</p>
+          </div>
+        </div>
+      </mat-card-content>
+    </mat-card>
+
+    <mat-card class="kpi-card low-stock" [class.warning]="kpis.productosStockBajo > 0">
+      <mat-card-content>
+        <div class="kpi-content">
+          <div class="kpi-icon">
+            <mat-icon>warning</mat-icon>
+          </div>
+          <div class="kpi-info">
+            <h3>{{kpis.productosStockBajo}}</h3>
+            <p>Stock Bajo</p>
+          </div>
+        </div>
+      </mat-card-content>
+    </mat-card>
+  </div>
+
+  <!-- Charts and Tables Section -->
+  <div class="content-section">
+    <div class="left-section">
+      <!-- Productos más vendidos -->
+      <mat-card class="chart-card">
+        <mat-card-header>
+          <mat-card-title>Top 10 Productos Más Vendidos</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+          <div class="products-list">
+            <div *ngFor="let producto of productosMasVendidos; let i = index" class="product-item">
+              <div class="product-rank">{{i + 1}}</div>
+              <div class="product-info">
+                <h4>{{producto.nombre}}</h4>
+                <p>Vendidos: {{producto.cantidadVendida}} unidades</p>
+                <p>Total: {{producto.montoTotal | currency:'USD':'symbol':'1.2-2'}}</p>
+              </div>
+            </div>
+          </div>
+        </mat-card-content>
+      </mat-card>
+    </div>
+
+    <div class="right-section">
+      <!-- Productos con stock bajo -->
+      <mat-card class="chart-card" *ngIf="productosStockBajo.length > 0">
+        <mat-card-header>
+          <mat-card-title>
+            <mat-icon color="warn">warning</mat-icon>
+            Productos con Stock Bajo
+          </mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+          <div class="low-stock-list">
+            <div *ngFor="let producto of productosStockBajo" class="low-stock-item">
+              <div class="product-info">
+                <h4>{{producto.nombre}}</h4>
+                <p>Stock actual: {{producto.stock}}</p>
+                <p>Stock mínimo: {{producto.stockMinimo}}</p>
+                <mat-progress-bar 
+                  mode="determinate" 
+                  [value]="(producto.stock / producto.stockMinimo) * 100"
+                  color="warn">
+                </mat-progress-bar>
+              </div>
+            </div>
+          </div>
+        </mat-card-content>
+      </mat-card>
+
+      <!-- Ventas por mes (simulación de gráfico) -->
+      <mat-card class="chart-card">
+        <mat-card-header>
+          <mat-card-title>Ventas por Mes</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+          <div class="sales-chart">
+            <div *ngFor="let venta of ventasPorMes" class="month-bar">
+              <div class="bar-container">
+                <div class="bar" 
+                     [style.height.%]="(venta.totalVentas / getMaxSales()) * 100">
+                </div>
+              </div>
+              <div class="month-label">
+                {{getMonthName(venta.mes)}}
+              </div>
+              <div class="month-value">
+                {{venta.totalVentas | currency:'USD':'symbol':'1.0-0'}}
+              </div>
+            </div>
+          </div>
+        </mat-card-content>
+      </mat-card>
+    </div>
+  </div>
+
+  <!-- Loading Spinner -->
+  <div *ngIf="loading" class="loading-container">
+    <mat-progress-spinner mode="indeterminate" diameter="50"></mat-progress-spinner>
+    <p>Cargando datos del dashboard...</p>
+  </div>
+</div>
+
+<!-- src/app/components/dashboard/dashboard.component.css -->
+<style>
+.dashboard-container {
+  padding: 20px;
+}
+
+.kpis-section {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.kpi-card {
+  transition: transform 0.2s ease-in-out;
+}
+
+.kpi-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+}
+
+.kpi-content {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.kpi-icon {
+  margin-right: 15px;
+  padding: 15px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.kpi-icon mat-icon {
+  font-size: 32px;
+  height: 32px;
+  width: 32px;
+  color: white;
+}
+
+.sales .kpi-icon {
+  background: linear-gradient(135deg, #4CAF50, #45a049);
+}
+
+.products .kpi-icon {
+  background: linear-gradient(135deg, #2196F3, #1976D2);
+}
+
+.sales-today .kpi-icon {
+  background: linear-gradient(135deg, #FF9800, #F57C00);
+}
+
+.low-stock .kpi-icon {
+  background: linear-gradient(135deg, #F44336, #D32F2F);
+}
+
+.warning {
+  border-left: 4px solid #F44336;
+}
+
+.kpi-info h3 {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.kpi-info p {
+  margin: 5px 0 0 0;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.content-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.chart-card {
+  height: fit-content;
+}
+
+.products-list, .low-stock-list {
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.product-item, .low-stock-item {
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.product-rank {
+  width: 30px;
+  height: 30px;
+  background: #667eea;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  margin-right: 15px;
+}
+
+.product-info {
+  flex: 1;
+}
+
+.product-info h4 {
+  margin: 0 0 5px 0;
+  color: #333;
+}
+
+.product-info p {
+  margin: 2px 0;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.sales-chart {
+  display: flex;
+  align-items: end;
+  justify-content: space-around;
+  height: 200px;
+  padding: 20px 0;
+}
+
+.month-bar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  justify-content: end;
+}
+
+.bar-container {
+  height: 120px;
+  display: flex;
+  align-items: end;
+  margin-bottom: 10px;
+}
+
+.bar {
+  width: 20px;
+  background: linear-gradient(to top, #667eea, #764ba2);
+  border-radius: 2px;
+  min-height: 5px;
+  transition: all 0.3s ease;
+}
+
+.bar:hover {
+  transform: scaleY(1.05);
+}
+
+.month-label {
+  font-size: 0.8rem;
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.month-value {
+  font-size: 0.7rem;
+  color: #333;
+  font-weight: 500;
+}
+
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}
+
+@media (max-width: 768px) {
+  .kpis-section {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+  
+  .content-section {
+    grid-template-columns: 1fr;
+  }
+  
+  .sales-chart {
+    height: 150px;
+    padding: 10px 0;
+  }
+}
+</style>
+
+// src/app/components/dashboard/dashboard.component.ts - Métodos adicionales
+export class DashboardComponent implements OnInit {
+  // ... propiedades existentes ...
+
+  getMaxSales(): number {
+    if (this.ventasPorMes.length === 0) return 1;
+    return Math.max(...this.ventasPorMes.map(v => v.totalVentas));
+  }
+
+  getMonthName(month: number): string {
+    const months = [
+      'Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun',
+      'Jul', 'Ago', 'Sep', 'Oct', 'Nov', 'Dic'
+    ];
+    return months[month - 1];
+  }
+
+  // ... resto de métodos existentes ...
+}
+
+// src/app/components/products/products.component.ts
+import { Component, OnInit, ViewChild } from '@angular/core';
+import { MatTableDataSource } from '@angular/material/table';
+import { MatPaginator } from '@angular/material/paginator';
+import { MatSort } from '@angular/material/sort';
+import { MatDialog } from '@angular/material/dialog';
+import { MatSnackBar } from '@angular/material/snack-bar';
+import { ProductService } from '../../services/product.service';
+import { CategoryService } from '../../services/category.service';
+import { SupplierService } from '../../services/supplier.service';
+import { Product } from '../../models/product.model';
+import { Category } from '../../models/category.model';
+import { Supplier } from '../../models/supplier.model';
+import { ProductDialogComponent } from './product-dialog/product-dialog.component';
+
+@Component({
+  selector: 'app-products',
+  templateUrl: './products.component.html',
+  styleUrls: ['./products.component.css']
+})
+export class ProductsComponent implements OnInit {
+  displayedColumns: string[] = ['nombre', 'categoria', 'proveedor', 'precio', 'stock', 'stockMinimo', 'actions'];
+  dataSource = new MatTableDataSource<Product>();
+  categories: Category[] = [];
+  suppliers: Supplier[] = [];
+  loading = false;
+
+  @ViewChild(MatPaginator) paginator!: MatPaginator;
+  @ViewChild(MatSort) sort!: MatSort;
+
+  constructor(
+    private productService: ProductService,
+    private categoryService: CategoryService,
+    private supplierService: SupplierService,
+    private dialog: MatDialog,
+    private snackBar: MatSnackBar
+  ) { }
+
+  ngOnInit(): void {
+    this.loadProducts();
+    this.loadCategories();
+    this.loadSuppliers();
+  }
+
+  ngAfterViewInit(): void {
+    this.dataSource.paginator = this.paginator;
+    this.dataSource.sort = this.sort;
+  }
+
+  loadProducts(): void {
+    this.loading = true;
+    this.productService.getProducts().subscribe({
+      next: (products) => {
+        this.dataSource.data = products;
+        this.loading = false;
+      },
+      error: (error) => {
+        this.snackBar.open('Error al cargar productos', 'Cerrar', { duration: 3000 });
+        this.loading = false;
+      }
+    });
+  }
+
+  loadCategories(): void {
+    this.categoryService.getCategories().subscribe({
+      next: (categories) => {
+        this.categories = categories;
+      },
+      error: (error) => {
+        console.error('Error loading categories:', error);
+      }
+    });
+  }
+
+  loadSuppliers(): void {
+    this.supplierService.getSuppliers().subscribe({
+      next: (suppliers) => {
+        this.suppliers = suppliers;
+      },
+      error: (error) => {
+        console.error('Error loading suppliers:', error);
+      }
+    });
+  }
+
+  applyFilter(event: Event): void {
+    const filterValue = (event.target as HTMLInputElement).value;
+    this.dataSource.filter = filterValue.trim().toLowerCase();
+  }
+
+  openProductDialog(product?: Product): void {
+    const dialogRef = this.dialog.open(ProductDialogComponent, {
+      width: '600px',
+      data: {
+        product: product,
+        categories: this.categories,
+        suppliers: this.suppliers
+      }
+    });
+
+    dialogRef.afterClosed().subscribe(result => {
+      if (result) {
+        this.loadProducts();
+      }
+    });
+  }
+
+  deleteProduct(id: number): void {
+    if (confirm('¿Está seguro de eliminar este producto?')) {
+      this.productService.deleteProduct(id).subscribe({
+        next: () => {
+          this.snackBar.open('Producto eliminado exitosamente', 'Cerrar', { duration: 3000 });
+          this.loadProducts();
+        },
+        error: (error) => {
+          this.snackBar.open('Error al eliminar producto', 'Cerrar', { duration: 3000 });
+        }
+      });
+    }
+  }
+
+  getStockStatus(product: Product): string {
+    if (product.stock <= product.stockMinimo) {
+      return 'low';
+    } else if (product.stock <= product.stockMinimo * 2) {
+      return 'medium';
+    }
+    return 'high';
+  }
+}
+
+// src/app/components/products/products.component.html
+<div class="products-container">
+  <div class="header-section">
+    <h1>Gestión de Productos</h1>
+    <button mat-raised-button color="primary" (click)="openProductDialog()">
+      <mat-icon>add</mat-icon>
+      Nuevo Producto
+    </button>
+  </div>
+
+  <mat-card class="table-card">
+    <mat-card-header>
+      <mat-card-title>Lista de Productos</mat-card-title>
+    </mat-card-header>
+    
+    <mat-card-content>
+      <div class="filter-section">
+        <mat-form-field appearance="outline" class="filter-field">
+          <mat-label>Buscar productos</mat-label>
+          <input matInput (keyup)="applyFilter($event)" placeholder="Nombre, categoría, proveedor...">
+          <mat-icon matSuffix>search</mat-icon>
+        </mat-form-field>
+      </div>
+
+      <div class="table-container">
+        <table mat-table [dataSource]="dataSource" matSort class="products-table">
+          <!-- Nombre Column -->
+          <ng-container matColumnDef="nombre">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header>Nombre</th>
+            <td mat-cell *matCellDef="let product">
+              <div class="product-name">
+                <strong>{{product.nombre}}</strong>
+                <small *ngIf="product.descripcion">{{product.descripcion}}</small>
+              </div>
+            </td>
+          </ng-container>
+
+          <!-- Categoría Column -->
+          <ng-container matColumnDef="categoria">
+            <th mat-header-cell *matHeaderCellDef>Categoría</th>
+            <td mat-cell *matCellDef="let product">
+              <mat-chip-set>
+                <mat-chip>{{product.categoriaNombre}}</mat-chip>
+              </mat-chip-set>
+            </td>
+          </ng-container>
+
+          <!-- Proveedor Column -->
+          <ng-container matColumnDef="proveedor">
+            <th mat-header-cell *matHeaderCellDef>Proveedor</th>
+            <td mat-cell *matCellDef="let product">{{product.proveedorNombre}}</td>
+          </ng-container>
+
+          <!-- Precio Column -->
+          <ng-container matColumnDef="precio">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header>Precio</th>
+            <td mat-cell *matCellDef="let product">
+              <strong>{{product.precio | currency:'USD':'symbol':'1.2-2'}}</strong>
+            </td>
+          </ng-container>
+
+          <!-- Stock Column -->
+          <ng-container matColumnDef="stock">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header>Stock</th>
+            <td mat-cell *matCellDef="let product">
+              <div class="stock-info">
+                <span [class]="'stock-badge stock-' + getStockStatus(product)">
+                  {{product.stock}}
+                </span>
+              </div>
+            </td>
+          </ng-container>
+
+          <!-- Stock Mínimo Column -->
+          <ng-container matColumnDef="stockMinimo">
+            <th mat-header-cell *matHeaderCellDef>Mínimo</th>
+            <td mat-cell *matCellDef="let product">{{product.stockMinimo}}</td>
+          </ng-container>
+
+          <!-- Actions Column -->
+          <ng-container matColumnDef="actions">
+            <th mat-header-cell *matHeaderCellDef>Acciones</th>
+            <td mat-cell *matCellDef="let product">
+              <button mat-icon-button color="primary" 
+                      (click)="openProductDialog(product)" 
+                      matTooltip="Editar">
+                <mat-icon>edit</mat-icon>
+              </button>
+              <button mat-icon-button color="warn" 
+                      (click)="deleteProduct(product.id)" 
+                      matTooltip="Eliminar">
+                <mat-icon>delete</mat-icon>
+              </button>
+            </td>
+          </ng-container>
+
+          <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+          <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+        </table>
+
+        <mat-paginator [pageSizeOptions]="[10, 25, 50, 100]" 
+                       showFirstLastButtons 
+                       aria-label="Seleccionar página de productos">
+        </mat-paginator>
+      </div>
+
+      <div *ngIf="loading" class="loading-overlay">
+        <mat-progress-spinner mode="indeterminate"></mat-progress-spinner>
+      </div>
+    </mat-card-content>
+  </mat-card>
+</div>
